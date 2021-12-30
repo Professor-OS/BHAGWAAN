@@ -4,7 +4,7 @@
 ### SUDO HANDLER 
 ### * plugins like (*ping), 
 ### aa (*bigspam) , (*raid) ,(*replyraid) and more
-## [𝗣𝗢𝗥𝗙𝗘𝗦𝗦𝗢𝗥](t.me/Prof_agora)
+## [𝗕𝗛𝗔𝗚𝗪𝗔𝗔𝗡](t.me/bhagwaan_5301)
 
 <p align="center">
   <img src="https://telegra.ph/file/123619b3724cffe25680e.jpg">
@@ -12,7 +12,7 @@
 
 
 
-𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝙾𝙺𝚄 💰
+𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝙾𝙺𝚄 💰
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PROFESSOR-OS/BHAGWAAN)
 
@@ -29,7 +29,7 @@
 
 
 ## SUPPORT GROUP
-   - 𝗝𝗢𝗜𝗡 [𝙼𝙷𝚄𝙱 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙲𝙷𝙰𝚃](https://t.me/MM_USERBOT) 𝗙𝗢𝗥 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗖𝗘.
+   - 𝗝𝗢𝗜𝗡 [𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗚𝗥𝗢𝗨𝗣](https://t.me/MM_USERBOT) 𝗙𝗢𝗥 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗖𝗘.
 
 ## Credits
    - 𝚃𝚑𝚊𝚗𝚔𝚜 𝚝𝚘 [𝚂𝚄𝙹𝙰𝙻](https://t.me/toxic_than_toxiest)
