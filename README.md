@@ -1,10 +1,10 @@
-# 𝙈𝙃-𝙎𝙋𝘼𝙈-𝘽𝙊𝙏
+# 𝗕𝗛𝗔𝗚𝗪𝗔𝗔𝗡'𝗦 𝗦𝗢𝗜𝗟𝗗𝗘𝗥𝗦
 
 #### 𝗗𝗘𝗣𝗟𝗢𝗬 𝗨𝗣𝗧𝗢 30 𝗕𝗢𝗧𝗦 𝗜𝗡 𝗔 𝗦𝗜𝗡𝗚𝗟𝗘 𝗔𝗣𝗣 
 ### SUDO HANDLER 
 ### * plugins like (*ping), 
 ### aa (*bigspam) , (*raid) ,(*replyraid) and more
-## [𝐌𝐎𝐍𝐄𝐘 𝐇𝐄𝐈𝐒𝐓 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓](t.me/Professor_agora)
+## [𝗣𝗢𝗥𝗙𝗘𝗦𝗦𝗢𝗥](t.me/Prof_agora)
 
 <p align="center">
   <img src="https://telegra.ph/file/ce8b8e62cd807f75a1653.jpg">
@@ -12,9 +12,9 @@
 
 
 
-## 🚀 𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝙾𝙺𝚄 💰
+𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝙾𝙺𝚄 💰
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PROFESSOR-OS/MH-Spam-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PROFESSOR-OS/BHAGWAAN)
 
 # 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙾𝙵 𝙼𝙷 𝚂𝙿𝙰𝙼 𝙱𝙾𝚃
 
