@@ -7,7 +7,7 @@
 ## [𝗣𝗢𝗥𝗙𝗘𝗦𝗦𝗢𝗥](t.me/Prof_agora)
 
 <p align="center">
-  <img src="https://telegra.ph/file/ce8b8e62cd807f75a1653.jpg">
+  <img src="https://telegra.ph/file/123619b3724cffe25680e.jpg">
 </p>
 
 
